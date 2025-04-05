@@ -4,6 +4,9 @@ Pymap:A Simple Network Scanning Tool
 Overview
 Pymap is a Python-based network scanning tool that combines command-line parameter functionality with an interactive menu.It allows users to perform various network scanning tasks,such as testing connectivity,scanning ports,and detecting operating systems.
 
+How to get started?
+   After Cloning,
+      pip install -r requirements.txt
 
 Features
 
